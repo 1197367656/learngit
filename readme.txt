@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 <<<<<<< HEAD
 Creating a new branch is quick & simple.
-add merge.
+add merge finish fied bug.
